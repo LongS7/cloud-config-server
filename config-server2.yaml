@@ -4,3 +4,5 @@ spring:
     url: jdbc:mysql://localhost:3306/book_service
     username: root
     password: 1530
+
+welcome: Some one outside
